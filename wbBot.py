@@ -3,7 +3,7 @@ from telebot import types
 import requests
 from io import BytesIO
 
-TOKEN = '7978760720:AAF3Ze0U9tmXrHYB7auZQH8hIhmuWb78Me4'
+TOKEN = 'API-TOKEN'
 bot = telebot.TeleBot(TOKEN)
 
 user_states = {}
